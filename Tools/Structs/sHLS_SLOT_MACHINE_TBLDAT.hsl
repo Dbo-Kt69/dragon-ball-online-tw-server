@@ -31,5 +31,5 @@ BYTE fill[2];
 	BYTE		byStack[10];
 	WORD		wQuantity[10];
 
-
+BYTE fill[2];
 };

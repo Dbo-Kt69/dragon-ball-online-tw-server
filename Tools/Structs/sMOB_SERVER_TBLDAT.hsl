@@ -17,7 +17,7 @@
 struct sMOB_SERVER_TBLDAT
 {
 DWORD tblidx;
-BYTE unknown1;
+BYTE bValidity_Able;
 BYTE fill[3];
-DWORD unknown2;
+DWORD dwServerBitFlag;
 };

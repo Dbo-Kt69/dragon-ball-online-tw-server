@@ -24,4 +24,5 @@ struct sDIRECTION_LINK_TBLDAT
 BYTE fill[1];
 	DWORD			dwAnimationID;
 	BYTE			byFuncFlag;
+BYTE fill[3];
 };
